@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my own online businesses
+- 🌱 I’m currently learning React Native, Wordpress, and 3D animation (for fun 😄)
+- 💬 Ask me about anything ✨
+- 📫 How to reach me:
+
 <!--
 **Jack4125/Jack4125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
