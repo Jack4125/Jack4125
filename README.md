@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my own online businesses
 - 🌱 I’m currently learning React Native, Wordpress, and 3D animation (for fun 😄)
 - 💬 Ask me about anything ✨
-- 📫 How to reach me: https://jack4125.github.io/
+- 📫 Reach me at [my profile page](https://jack4125.github.io/)
 
 <!--
 **Jack4125/Jack4125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
