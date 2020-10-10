@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my online business
-- 🌱 I’m currently learning React Native, Wordpress, and 3D animation (for fun 😄)
+- 🔭 I’m currently working on my business
+- 🌱 I’m learning React Native, Wordpress, and 3D animation 😄
 - 💬 Ask me about anything ✨
 - 📫 Reach me at [my profile page](https://jack4125.github.io/)
 
